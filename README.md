@@ -6,9 +6,9 @@ This script periodically scans given directory and its sub directories and creat
 3.Send that log file via Email to user    
 ## Usage ##  
 $DuplicateFileRemover Dir_Name Time_Interval[min] Mail_ID  
-. DuplicateFileRemover : Name of script  
-. Dir_Name : Name of Directory which may contain duplicate files  
-. Time_Interval[min] : Time Interval for script in minuts  
-. Mail_ID : Mail ID of reciever    
-###### Tip   
+**.** DuplicateFileRemover : Name of script  
+**.** Dir_Name : Name of Directory which may contain duplicate files  
+**.** Time_Interval[min] : Time Interval for script in minuts  
+**.** Mail_ID : Mail ID of reciever    
+###### Tip  
 Turn on **Allow less Secure apps** option in your gmail account 
